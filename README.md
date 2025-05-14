@@ -6,7 +6,7 @@
 ![Demo Screenshot 2](screenshot2.png)  
 *Figure 2: Detecting mobile phone and person*  
 
-## � Overview  
+## 📌 Overview  
 This project implements real-time object detection using **YOLOv5** in Python. It captures live video from your webcam, detects objects, and draws bounding boxes with labels and confidence scores.  
 
 ## ✨ Features  
@@ -34,7 +34,7 @@ This project implements real-time object detection using **YOLOv5** in Python. I
    wget https://github.com/ultralytics/yolov5/releases/download/v6.0/yolov5s.pt -P models/
    ```
 
-## � Usage  
+## 📌 Usage  
 
 ### Run with default webcam  
 ```bash
@@ -67,5 +67,3 @@ Feel free to open issues or submit pull requests for improvements!
 MIT  
 
 ---
-
-Let me know if you'd like any modifications or additional details! 🚀
